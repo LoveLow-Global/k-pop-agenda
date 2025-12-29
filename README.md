@@ -1,8 +1,14 @@
 # K-Pop Agenda Dynamics: A Comparative Analysis of Topic Diffusion and Sentiment on News and Social Media
 
-**One line summary**: Sort K-pop related articles into distinct agenda topics, then check the characteristics of community response for each distinct agenda topics. We also compare how the community response differ from one online community / SNS platform to another.
+Ongoing research notes on the K-Pop Agenda Dynamics research by Jihyung Kim & Kassenov Mansur.
 
-**Target of Analysis**: Top K-pop related articles on [Naver Entertainment](https://m.entertain.naver.com/series?tab=subject&categoryId=ALL), from 20240101 to 20241231
+# Important Note
+
+This README.md will be edited greatly on the first few weeks of 2026, as a lot of data processing can be done after 2025 ends.
+
+**One line summary**: Sort K-pop related articles into distinct agenda topics, then check the characteristics of community response for each distinct agenda topics. We may also compare how the community response differ from one online community / SNS platform to another.
+
+**Target of Analysis**: Top K-pop related articles on [Naver Entertainment](https://m.entertain.naver.com/series?tab=subject&categoryId=ALL), from 20250101 to 20251231
 
 **Data Source**:
 
@@ -13,17 +19,10 @@
 
 ### 1.1 - News Data Collection
 
-From Jan 1st, 2024 to Dec 31rd, 2024, the 10 articles with the highest number of daily views were collected. Top [5th article on July 29th](https://m.entertain.naver.com/ranking/article/144/0000978581) and [4th article on Dec 23rd](https://m.entertain.naver.com/ranking/article/312/0000693987) could not be opened and so there is uncollected data. However, it was a extremely small portion of the total number of collected articles and therefore I moved on. In essence, a total of 3658 articles were collected.
-
-For this task, I first obtained the list of top 10 articles for each day.
-[Source code for Ranking Crawler](https://github.com/LoveLow-Global/kpop-agenda-sentiment/blob/main/Step1/Step1-1/ranking_crawler.ipynb)
-[list of top10 articles](https://github.com/LoveLow-Global/kpop-agenda-sentiment/blob/main/Step1/metadata.tsv)
-
+From Jan 1st, 2025 to Dec 31rd, 2025, the 10 articles with the highest number of daily views will be collected. Some articles could not be found, likely because the original articles were deleted. However, it was a extremely small portion of the total number of collected articles and therefore we moved on.
 Then, I obtained the article texts for the 3658 articles.
 [Source code for Content Crawler](https://github.com/LoveLow-Global/kpop-agenda-sentiment/blob/main/Step1/Step1-1/content_crawler.ipynb)
 Article texts are not on this repository, but you can run the codes provided and get them yourself.
-
-Note: Ignore the **Rank** column in the tsv file for now (written 20250220).
 
 ### 1.2 - Check news articles with same content
 
@@ -32,8 +31,6 @@ Sort out the news articles with the same content. It is very likely that differe
 ### 1.3 - Topic Modeling
 
 Apply topic modeling on the gathered news articles, used KoBERT.
-
-We will likely use KoBERT.
 
 The research paper below uses LDA(u_mass).
 
@@ -44,7 +41,7 @@ The research paper below uses LDA(u_mass).
 
 ### 2.1 - Select some news over different topics.
 
-Select the top **???** most influential news per topic type. (numbers subject to change)
+Select the top **5-10** most influential news per topic type. (numbers subject to change)
 
 ### 2.2 - Analysis
 
@@ -66,6 +63,3 @@ For example, after the news of 카리나 and 이재욱 dating was first told to 
 
 ## Step 3 - Comparison Between the Different Diffusion and Sentiment Across Different Topics and Platforms
 
-To be continued when this research resumes.
-
-Comparison based on the results. TBD after checking the amount of data.
