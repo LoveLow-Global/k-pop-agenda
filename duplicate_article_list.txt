@@ -1,0 +1,1673 @@
+--- Similar Content Clusters ---
+
+Cluster 7:
+ - [ID: 7] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240101_article_7.txt
+ - [ID: 20] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240102_article_10.txt
+
+Cluster 11:
+ - [ID: 11] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240102_article_1.txt
+ - [ID: 14] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240102_article_4.txt
+ - [ID: 35] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240104_article_5.txt
+ - [ID: 37] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240104_article_7.txt
+ - [ID: 41] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240105_article_1.txt
+ - [ID: 43] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240105_article_3.txt
+ - [ID: 2204] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240808_article_4.txt
+ - [ID: 2207] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240808_article_7.txt
+ - [ID: 2208] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240808_article_8.txt
+ - [ID: 2221] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240810_article_1.txt
+
+Cluster 15:
+ - [ID: 16] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240102_article_6.txt
+ - [ID: 26] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240103_article_6.txt
+
+Cluster 19:
+ - [ID: 21] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240103_article_1.txt
+ - [ID: 22] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240103_article_2.txt
+ - [ID: 31] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240104_article_1.txt
+ - [ID: 32] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240104_article_2.txt
+ - [ID: 34] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240104_article_4.txt
+ - [ID: 65] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240107_article_5.txt
+ - [ID: 71] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240108_article_1.txt
+ - [ID: 73] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240108_article_3.txt
+ - [ID: 74] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240108_article_4.txt
+ - [ID: 75] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240108_article_5.txt
+ - [ID: 77] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240108_article_7.txt
+ - [ID: 85] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240109_article_5.txt
+ - [ID: 89] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240109_article_9.txt
+ - [ID: 90] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240109_article_10.txt
+ - [ID: 123] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240113_article_3.txt
+ - [ID: 190] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240119_article_10.txt
+ - [ID: 192] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240120_article_2.txt
+ - [ID: 201] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240121_article_1.txt
+ - [ID: 205] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240121_article_5.txt
+ - [ID: 208] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240121_article_8.txt
+ - [ID: 252] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240126_article_2.txt
+ - [ID: 270] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240127_article_10.txt
+ - [ID: 277] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240128_article_7.txt
+ - [ID: 283] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240129_article_3.txt
+ - [ID: 349] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240204_article_9.txt
+ - [ID: 362] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240206_article_2.txt
+ - [ID: 371] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240207_article_1.txt
+ - [ID: 395] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240209_article_5.txt
+ - [ID: 414] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240211_article_4.txt
+ - [ID: 436] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240213_article_6.txt
+ - [ID: 501] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240220_article_1.txt
+ - [ID: 521] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240222_article_1.txt
+ - [ID: 526] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240222_article_6.txt
+ - [ID: 528] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240222_article_8.txt
+ - [ID: 531] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240223_article_1.txt
+ - [ID: 532] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240223_article_2.txt
+ - [ID: 534] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240223_article_4.txt
+ - [ID: 546] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240224_article_6.txt
+ - [ID: 570] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240226_article_10.txt
+ - [ID: 578] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240227_article_8.txt
+ - [ID: 595] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240229_article_5.txt
+ - [ID: 643] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240305_article_3.txt
+ - [ID: 645] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240305_article_5.txt
+ - [ID: 673] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240308_article_3.txt
+ - [ID: 736] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240314_article_6.txt
+ - [ID: 753] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240316_article_3.txt
+ - [ID: 754] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240316_article_4.txt
+ - [ID: 766] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240317_article_6.txt
+ - [ID: 782] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240319_article_2.txt
+ - [ID: 845] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240325_article_5.txt
+ - [ID: 850] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240325_article_10.txt
+ - [ID: 856] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240326_article_6.txt
+ - [ID: 888] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240329_article_8.txt
+ - [ID: 907] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240331_article_7.txt
+ - [ID: 921] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240402_article_1.txt
+ - [ID: 923] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240402_article_3.txt
+ - [ID: 924] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240402_article_4.txt
+ - [ID: 928] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240402_article_8.txt
+ - [ID: 929] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240402_article_9.txt
+ - [ID: 930] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240402_article_10.txt
+ - [ID: 934] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240403_article_4.txt
+ - [ID: 938] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240403_article_8.txt
+ - [ID: 945] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240404_article_5.txt
+ - [ID: 948] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240404_article_8.txt
+ - [ID: 949] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240404_article_9.txt
+ - [ID: 953] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240405_article_3.txt
+ - [ID: 958] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240405_article_8.txt
+ - [ID: 995] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240409_article_5.txt
+ - [ID: 1007] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240410_article_7.txt
+ - [ID: 1009] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240410_article_9.txt
+ - [ID: 1071] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240417_article_1.txt
+ - [ID: 1089] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240418_article_9.txt
+ - [ID: 1109] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240420_article_9.txt
+ - [ID: 1111] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240421_article_1.txt
+ - [ID: 1118] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240421_article_8.txt
+ - [ID: 1447] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240524_article_7.txt
+ - [ID: 1588] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240607_article_8.txt
+ - [ID: 1591] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240608_article_1.txt
+ - [ID: 1646] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240613_article_6.txt
+ - [ID: 1692] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240618_article_2.txt
+ - [ID: 1732] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240622_article_2.txt
+ - [ID: 1733] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240622_article_3.txt
+ - [ID: 1736] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240622_article_6.txt
+ - [ID: 1737] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240622_article_7.txt
+ - [ID: 1741] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240623_article_1.txt
+ - [ID: 1742] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240623_article_2.txt
+ - [ID: 1744] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240623_article_4.txt
+ - [ID: 1748] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240623_article_8.txt
+ - [ID: 1751] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240624_article_1.txt
+ - [ID: 1767] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240625_article_7.txt
+ - [ID: 1775] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240626_article_5.txt
+ - [ID: 1808] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240629_article_8.txt
+ - [ID: 1843] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240703_article_3.txt
+ - [ID: 1879] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240706_article_9.txt
+ - [ID: 1886] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240707_article_6.txt
+ - [ID: 1896] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240708_article_6.txt
+ - [ID: 1909] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240709_article_9.txt
+ - [ID: 1914] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240710_article_4.txt
+ - [ID: 1934] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240712_article_4.txt
+ - [ID: 2018] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240720_article_8.txt
+ - [ID: 2031] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240722_article_1.txt
+ - [ID: 2032] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240722_article_2.txt
+ - [ID: 2034] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240722_article_4.txt
+ - [ID: 2051] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240724_article_1.txt
+ - [ID: 2053] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240724_article_3.txt
+ - [ID: 2058] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240724_article_8.txt
+ - [ID: 2059] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240724_article_9.txt
+ - [ID: 2061] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240725_article_1.txt
+ - [ID: 2065] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240725_article_5.txt
+ - [ID: 2117] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240730_article_7.txt
+ - [ID: 2121] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240731_article_1.txt
+ - [ID: 2165] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240804_article_5.txt
+ - [ID: 2177] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240805_article_7.txt
+ - [ID: 2178] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240805_article_8.txt
+ - [ID: 2284] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240816_article_4.txt
+ - [ID: 2285] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240816_article_5.txt
+ - [ID: 2293] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240817_article_3.txt
+ - [ID: 2297] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240817_article_7.txt
+ - [ID: 2315] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240819_article_5.txt
+ - [ID: 2322] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240820_article_2.txt
+ - [ID: 2328] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240820_article_8.txt
+ - [ID: 2333] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240821_article_3.txt
+ - [ID: 2355] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240823_article_5.txt
+ - [ID: 2370] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240824_article_10.txt
+ - [ID: 2383] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240826_article_3.txt
+ - [ID: 2401] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240828_article_1.txt
+ - [ID: 2405] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240828_article_5.txt
+ - [ID: 2406] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240828_article_6.txt
+ - [ID: 2417] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240829_article_7.txt
+ - [ID: 2427] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240830_article_7.txt
+ - [ID: 2530] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240909_article_10.txt
+ - [ID: 2620] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240918_article_10.txt
+ - [ID: 2655] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240922_article_5.txt
+ - [ID: 2671] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240924_article_1.txt
+ - [ID: 2678] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240924_article_8.txt
+ - [ID: 2752] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241002_article_2.txt
+ - [ID: 2753] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241002_article_3.txt
+ - [ID: 2754] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241002_article_4.txt
+ - [ID: 2761] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241003_article_1.txt
+ - [ID: 2764] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241003_article_4.txt
+ - [ID: 2769] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241003_article_9.txt
+ - [ID: 2772] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241004_article_2.txt
+ - [ID: 2792] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241006_article_2.txt
+ - [ID: 2901] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241017_article_1.txt
+ - [ID: 2902] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241017_article_2.txt
+ - [ID: 2904] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241017_article_4.txt
+ - [ID: 2911] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241018_article_1.txt
+ - [ID: 2913] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241018_article_3.txt
+ - [ID: 2923] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241019_article_3.txt
+ - [ID: 2930] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241019_article_10.txt
+ - [ID: 2938] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241020_article_8.txt
+ - [ID: 2942] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241021_article_2.txt
+ - [ID: 2956] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241022_article_6.txt
+ - [ID: 2961] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241023_article_1.txt
+ - [ID: 2968] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241023_article_8.txt
+ - [ID: 2973] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241024_article_3.txt
+ - [ID: 2975] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241024_article_5.txt
+ - [ID: 2976] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241024_article_6.txt
+ - [ID: 2989] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241025_article_9.txt
+ - [ID: 2990] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241025_article_10.txt
+ - [ID: 2998] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241026_article_8.txt
+ - [ID: 3000] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241026_article_10.txt
+ - [ID: 3002] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241027_article_2.txt
+ - [ID: 3004] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241027_article_4.txt
+ - [ID: 3005] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241027_article_5.txt
+ - [ID: 3006] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241027_article_6.txt
+ - [ID: 3010] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241027_article_10.txt
+ - [ID: 3011] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241028_article_1.txt
+ - [ID: 3013] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241028_article_3.txt
+ - [ID: 3014] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241028_article_4.txt
+ - [ID: 3021] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241029_article_1.txt
+ - [ID: 3022] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241029_article_2.txt
+ - [ID: 3041] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241031_article_1.txt
+ - [ID: 3064] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241102_article_4.txt
+ - [ID: 3079] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241103_article_9.txt
+ - [ID: 3084] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241104_article_4.txt
+ - [ID: 3090] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241104_article_10.txt
+ - [ID: 3103] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241106_article_3.txt
+ - [ID: 3113] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241107_article_3.txt
+ - [ID: 3128] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241108_article_8.txt
+ - [ID: 3173] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241113_article_3.txt
+ - [ID: 3176] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241113_article_6.txt
+ - [ID: 3198] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241115_article_8.txt
+ - [ID: 3317] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241127_article_7.txt
+ - [ID: 3331] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241129_article_1.txt
+ - [ID: 3459] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241211_article_9.txt
+ - [ID: 3471] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241213_article_1.txt
+ - [ID: 3481] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241214_article_1.txt
+ - [ID: 3507] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241216_article_7.txt
+ - [ID: 3533] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241219_article_3.txt
+ - [ID: 3534] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241219_article_4.txt
+ - [ID: 3579] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241223_article_9.txt
+
+Cluster 31:
+ - [ID: 40] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240104_article_10.txt
+ - [ID: 815] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240322_article_5.txt
+
+Cluster 41:
+ - [ID: 52] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240106_article_2.txt
+ - [ID: 143] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240115_article_3.txt
+
+Cluster 42:
+ - [ID: 53] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240106_article_3.txt
+ - [ID: 67] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240107_article_7.txt
+
+Cluster 61:
+ - [ID: 79] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240108_article_9.txt
+ - [ID: 146] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240115_article_6.txt
+ - [ID: 396] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240209_article_6.txt
+ - [ID: 400] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240209_article_10.txt
+ - [ID: 493] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240219_article_3.txt
+ - [ID: 789] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240319_article_9.txt
+ - [ID: 804] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240321_article_4.txt
+
+Cluster 63:
+ - [ID: 81] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240109_article_1.txt
+ - [ID: 82] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240109_article_2.txt
+ - [ID: 94] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240110_article_4.txt
+ - [ID: 108] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240111_article_8.txt
+ - [ID: 128] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240113_article_8.txt
+
+Cluster 65:
+ - [ID: 84] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240109_article_4.txt
+ - [ID: 91] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240110_article_1.txt
+
+Cluster 68:
+ - [ID: 88] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240109_article_8.txt
+ - [ID: 92] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240110_article_2.txt
+
+Cluster 73:
+ - [ID: 98] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240110_article_8.txt
+ - [ID: 106] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240111_article_6.txt
+
+Cluster 78:
+ - [ID: 103] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240111_article_3.txt
+ - [ID: 398] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240209_article_8.txt
+ - [ID: 1919] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240710_article_9.txt
+ - [ID: 2682] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240925_article_2.txt
+
+Cluster 79:
+ - [ID: 104] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240111_article_4.txt
+ - [ID: 113] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240112_article_3.txt
+ - [ID: 482] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240218_article_2.txt
+
+Cluster 99:
+ - [ID: 129] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240113_article_9.txt
+ - [ID: 137] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240114_article_7.txt
+
+Cluster 116:
+ - [ID: 149] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240115_article_9.txt
+ - [ID: 151] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240116_article_1.txt
+
+Cluster 124:
+ - [ID: 158] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240116_article_8.txt
+ - [ID: 162] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240117_article_2.txt
+
+Cluster 126:
+ - [ID: 160] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240116_article_10.txt
+ - [ID: 161] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240117_article_1.txt
+ - [ID: 168] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240117_article_8.txt
+ - [ID: 216] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240122_article_6.txt
+ - [ID: 222] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240123_article_2.txt
+
+Cluster 137:
+ - [ID: 174] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240118_article_4.txt
+ - [ID: 249] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240125_article_9.txt
+
+Cluster 149:
+ - [ID: 186] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240119_article_6.txt
+ - [ID: 224] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240123_article_4.txt
+
+Cluster 151:
+ - [ID: 188] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240119_article_8.txt
+ - [ID: 198] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240120_article_8.txt
+
+Cluster 152:
+ - [ID: 189] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240119_article_9.txt
+ - [ID: 236] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240124_article_6.txt
+ - [ID: 412] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240211_article_2.txt
+
+Cluster 165:
+ - [ID: 207] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240121_article_7.txt
+ - [ID: 212] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240122_article_2.txt
+
+Cluster 180:
+ - [ID: 227] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240123_article_7.txt
+ - [ID: 656] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240306_article_6.txt
+ - [ID: 1067] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240416_article_7.txt
+ - [ID: 3236] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241119_article_6.txt
+ - [ID: 3330] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241128_article_10.txt
+ - [ID: 3583] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241224_article_3.txt
+
+Cluster 201:
+ - [ID: 250] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240125_article_10.txt
+ - [ID: 253] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240126_article_3.txt
+ - [ID: 471] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240217_article_1.txt
+ - [ID: 614] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240302_article_4.txt
+
+Cluster 206:
+ - [ID: 257] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240126_article_7.txt
+ - [ID: 328] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240202_article_8.txt
+
+Cluster 214:
+ - [ID: 265] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240127_article_5.txt
+ - [ID: 393] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240209_article_3.txt
+ - [ID: 407] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240210_article_7.txt
+
+Cluster 221:
+ - [ID: 273] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240128_article_3.txt
+ - [ID: 278] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240128_article_8.txt
+ - [ID: 1130] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240422_article_10.txt
+
+Cluster 231:
+ - [ID: 286] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240129_article_6.txt
+ - [ID: 291] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240130_article_1.txt
+
+Cluster 237:
+ - [ID: 293] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240130_article_3.txt
+ - [ID: 299] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240130_article_9.txt
+
+Cluster 242:
+ - [ID: 298] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240130_article_8.txt
+ - [ID: 301] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240131_article_1.txt
+
+Cluster 258:
+ - [ID: 316] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240201_article_6.txt
+ - [ID: 327] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240202_article_7.txt
+
+Cluster 265:
+ - [ID: 323] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240202_article_3.txt
+ - [ID: 359] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240205_article_9.txt
+
+Cluster 267:
+ - [ID: 325] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240202_article_5.txt
+ - [ID: 329] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240202_article_9.txt
+ - [ID: 1471] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240527_article_1.txt
+ - [ID: 1477] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240527_article_7.txt
+
+Cluster 269:
+ - [ID: 330] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240202_article_10.txt
+ - [ID: 732] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240314_article_2.txt
+
+Cluster 289:
+ - [ID: 351] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240205_article_1.txt
+ - [ID: 352] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240205_article_2.txt
+
+Cluster 294:
+ - [ID: 357] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240205_article_7.txt
+ - [ID: 364] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240206_article_4.txt
+
+Cluster 297:
+ - [ID: 361] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240206_article_1.txt
+ - [ID: 363] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240206_article_3.txt
+
+Cluster 307:
+ - [ID: 375] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240207_article_5.txt
+ - [ID: 382] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240208_article_2.txt
+
+Cluster 312:
+ - [ID: 380] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240207_article_10.txt
+ - [ID: 384] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240208_article_4.txt
+
+Cluster 318:
+ - [ID: 388] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240208_article_8.txt
+ - [ID: 460] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240215_article_10.txt
+
+Cluster 335:
+ - [ID: 411] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240211_article_1.txt
+ - [ID: 413] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240211_article_3.txt
+ - [ID: 489] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240218_article_9.txt
+
+Cluster 337:
+ - [ID: 416] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240211_article_6.txt
+ - [ID: 446] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240214_article_6.txt
+
+Cluster 345:
+ - [ID: 424] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240212_article_4.txt
+ - [ID: 447] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240214_article_7.txt
+ - [ID: 461] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240216_article_1.txt
+
+Cluster 355:
+ - [ID: 434] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240213_article_4.txt
+ - [ID: 440] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240213_article_10.txt
+
+Cluster 372:
+ - [ID: 455] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240215_article_5.txt
+ - [ID: 724] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240313_article_4.txt
+ - [ID: 795] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240320_article_5.txt
+ - [ID: 852] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240326_article_2.txt
+ - [ID: 917] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240401_article_7.txt
+
+Cluster 380:
+ - [ID: 465] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240216_article_5.txt
+ - [ID: 2200] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240807_article_10.txt
+ - [ID: 2400] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240827_article_10.txt
+
+Cluster 389:
+ - [ID: 475] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240217_article_5.txt
+ - [ID: 1473] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240527_article_3.txt
+ - [ID: 1493] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240529_article_3.txt
+
+Cluster 390:
+ - [ID: 476] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240217_article_6.txt
+ - [ID: 485] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240218_article_5.txt
+
+Cluster 395:
+ - [ID: 481] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240218_article_1.txt
+ - [ID: 496] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240219_article_6.txt
+ - [ID: 499] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240219_article_9.txt
+
+Cluster 397:
+ - [ID: 484] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240218_article_4.txt
+ - [ID: 491] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240219_article_1.txt
+
+Cluster 398:
+ - [ID: 486] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240218_article_6.txt
+ - [ID: 492] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240219_article_2.txt
+
+Cluster 401:
+ - [ID: 490] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240218_article_10.txt
+ - [ID: 535] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240223_article_5.txt
+ - [ID: 615] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240302_article_5.txt
+ - [ID: 797] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240320_article_7.txt
+ - [ID: 831] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240324_article_1.txt
+ - [ID: 851] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240326_article_1.txt
+ - [ID: 854] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240326_article_4.txt
+ - [ID: 968] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240406_article_8.txt
+ - [ID: 1139] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240423_article_9.txt
+ - [ID: 1167] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240426_article_7.txt
+ - [ID: 1200] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240429_article_10.txt
+ - [ID: 1230] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240502_article_10.txt
+ - [ID: 1835] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240702_article_5.txt
+ - [ID: 2907] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241017_article_7.txt
+
+Cluster 405:
+ - [ID: 498] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240219_article_8.txt
+ - [ID: 502] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240220_article_2.txt
+
+Cluster 413:
+ - [ID: 509] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240220_article_9.txt
+ - [ID: 515] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240221_article_5.txt
+ - [ID: 518] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240221_article_8.txt
+
+Cluster 418:
+ - [ID: 514] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240221_article_4.txt
+ - [ID: 524] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240222_article_4.txt
+
+Cluster 430:
+ - [ID: 536] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240223_article_6.txt
+ - [ID: 540] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240223_article_10.txt
+ - [ID: 541] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240224_article_1.txt
+ - [ID: 663] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240307_article_3.txt
+ - [ID: 704] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240311_article_4.txt
+
+Cluster 437:
+ - [ID: 545] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240224_article_5.txt
+ - [ID: 1386] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240518_article_6.txt
+
+Cluster 452:
+ - [ID: 561] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240226_article_1.txt
+ - [ID: 688] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240309_article_8.txt
+
+Cluster 475:
+ - [ID: 586] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240228_article_6.txt
+ - [ID: 794] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240320_article_4.txt
+
+Cluster 479:
+ - [ID: 590] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240228_article_10.txt
+ - [ID: 594] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240229_article_4.txt
+
+Cluster 486:
+ - [ID: 599] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240229_article_9.txt
+ - [ID: 609] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240301_article_9.txt
+
+Cluster 488:
+ - [ID: 601] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240301_article_1.txt
+ - [ID: 617] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240302_article_7.txt
+ - [ID: 636] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240304_article_6.txt
+
+Cluster 501:
+ - [ID: 618] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240302_article_8.txt
+ - [ID: 621] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240303_article_1.txt
+
+Cluster 505:
+ - [ID: 623] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240303_article_3.txt
+ - [ID: 624] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240303_article_4.txt
+
+Cluster 520:
+ - [ID: 640] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240304_article_10.txt
+ - [ID: 642] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240305_article_2.txt
+ - [ID: 648] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240305_article_8.txt
+
+Cluster 521:
+ - [ID: 641] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240305_article_1.txt
+ - [ID: 651] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240306_article_1.txt
+
+Cluster 529:
+ - [ID: 654] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240306_article_4.txt
+ - [ID: 664] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240307_article_4.txt
+
+Cluster 538:
+ - [ID: 666] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240307_article_6.txt
+ - [ID: 680] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240308_article_10.txt
+
+Cluster 540:
+ - [ID: 668] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240307_article_8.txt
+ - [ID: 679] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240308_article_9.txt
+
+Cluster 547:
+ - [ID: 676] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240308_article_6.txt
+ - [ID: 1173] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240427_article_3.txt
+ - [ID: 1180] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240427_article_10.txt
+
+Cluster 552:
+ - [ID: 683] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240309_article_3.txt
+ - [ID: 693] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240310_article_3.txt
+ - [ID: 695] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240310_article_5.txt
+ - [ID: 698] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240310_article_8.txt
+
+Cluster 556:
+ - [ID: 687] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240309_article_7.txt
+ - [ID: 747] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240315_article_7.txt
+
+Cluster 582:
+ - [ID: 718] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240312_article_8.txt
+ - [ID: 720] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240312_article_10.txt
+
+Cluster 586:
+ - [ID: 723] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240313_article_3.txt
+ - [ID: 1042] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240414_article_2.txt
+
+Cluster 592:
+ - [ID: 730] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240313_article_10.txt
+ - [ID: 734] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240314_article_4.txt
+
+Cluster 596:
+ - [ID: 737] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240314_article_7.txt
+ - [ID: 3658] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241231_article_8.txt
+
+Cluster 600:
+ - [ID: 741] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240315_article_1.txt
+ - [ID: 743] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240315_article_3.txt
+ - [ID: 745] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240315_article_5.txt
+ - [ID: 749] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240315_article_9.txt
+ - [ID: 751] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240316_article_1.txt
+ - [ID: 752] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240316_article_2.txt
+ - [ID: 756] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240316_article_6.txt
+ - [ID: 760] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240316_article_10.txt
+ - [ID: 761] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240317_article_1.txt
+ - [ID: 762] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240317_article_2.txt
+ - [ID: 764] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240317_article_4.txt
+ - [ID: 767] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240317_article_7.txt
+ - [ID: 772] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240318_article_2.txt
+ - [ID: 775] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240318_article_5.txt
+ - [ID: 776] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240318_article_6.txt
+ - [ID: 781] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240319_article_1.txt
+ - [ID: 783] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240319_article_3.txt
+ - [ID: 785] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240319_article_5.txt
+ - [ID: 793] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240320_article_3.txt
+ - [ID: 798] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240320_article_8.txt
+ - [ID: 800] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240320_article_10.txt
+ - [ID: 829] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240323_article_9.txt
+ - [ID: 833] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240324_article_3.txt
+ - [ID: 836] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240324_article_6.txt
+ - [ID: 841] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240325_article_1.txt
+ - [ID: 867] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240327_article_7.txt
+ - [ID: 868] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240327_article_8.txt
+ - [ID: 876] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240328_article_6.txt
+ - [ID: 881] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240329_article_1.txt
+ - [ID: 882] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240329_article_2.txt
+ - [ID: 885] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240329_article_5.txt
+ - [ID: 887] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240329_article_7.txt
+ - [ID: 891] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240330_article_1.txt
+ - [ID: 892] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240330_article_2.txt
+ - [ID: 896] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240330_article_6.txt
+ - [ID: 900] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240330_article_10.txt
+ - [ID: 908] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240331_article_8.txt
+ - [ID: 910] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240331_article_10.txt
+ - [ID: 916] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240401_article_6.txt
+ - [ID: 1625] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240611_article_5.txt
+ - [ID: 1842] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240703_article_2.txt
+
+Cluster 617:
+ - [ID: 774] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240318_article_4.txt
+ - [ID: 780] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240318_article_10.txt
+
+Cluster 630:
+ - [ID: 801] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240321_article_1.txt
+ - [ID: 803] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240321_article_3.txt
+ - [ID: 805] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240321_article_5.txt
+ - [ID: 806] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240321_article_6.txt
+
+Cluster 636:
+ - [ID: 811] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240322_article_1.txt
+ - [ID: 819] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240322_article_9.txt
+ - [ID: 961] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240406_article_1.txt
+
+Cluster 645:
+ - [ID: 822] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240323_article_2.txt
+ - [ID: 828] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240323_article_8.txt
+
+Cluster 658:
+ - [ID: 840] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240324_article_10.txt
+ - [ID: 843] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240325_article_3.txt
+
+Cluster 681:
+ - [ID: 873] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240328_article_3.txt
+ - [ID: 912] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240401_article_2.txt
+
+Cluster 690:
+ - [ID: 886] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240329_article_6.txt
+ - [ID: 1288] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240508_article_8.txt
+
+Cluster 712:
+ - [ID: 920] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240401_article_10.txt
+ - [ID: 925] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240402_article_5.txt
+
+Cluster 723:
+ - [ID: 940] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240403_article_10.txt
+ - [ID: 950] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240404_article_10.txt
+
+Cluster 725:
+ - [ID: 942] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240404_article_2.txt
+ - [ID: 944] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240404_article_4.txt
+ - [ID: 947] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240404_article_7.txt
+ - [ID: 951] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240405_article_1.txt
+ - [ID: 1768] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240625_article_8.txt
+ - [ID: 1964] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240715_article_4.txt
+ - [ID: 1966] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240715_article_6.txt
+ - [ID: 1972] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240716_article_2.txt
+ - [ID: 1974] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240716_article_4.txt
+ - [ID: 1978] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240716_article_8.txt
+
+Cluster 727:
+ - [ID: 946] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240404_article_6.txt
+ - [ID: 1712] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240620_article_2.txt
+
+Cluster 735:
+ - [ID: 962] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240406_article_2.txt
+ - [ID: 970] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240406_article_10.txt
+ - [ID: 974] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240407_article_4.txt
+ - [ID: 976] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240407_article_6.txt
+ - [ID: 988] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240408_article_8.txt
+
+Cluster 738:
+ - [ID: 965] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240406_article_5.txt
+ - [ID: 969] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240406_article_9.txt
+
+Cluster 747:
+ - [ID: 979] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240407_article_9.txt
+ - [ID: 981] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240408_article_1.txt
+
+Cluster 748:
+ - [ID: 980] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240407_article_10.txt
+ - [ID: 1041] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240414_article_1.txt
+ - [ID: 1043] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240414_article_3.txt
+
+Cluster 753:
+ - [ID: 986] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240408_article_6.txt
+ - [ID: 996] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240409_article_6.txt
+
+Cluster 758:
+ - [ID: 992] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240409_article_2.txt
+ - [ID: 1002] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240410_article_2.txt
+
+Cluster 773:
+ - [ID: 1012] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240411_article_2.txt
+ - [ID: 1116] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240421_article_6.txt
+
+Cluster 774:
+ - [ID: 1013] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240411_article_3.txt
+ - [ID: 1016] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240411_article_6.txt
+ - [ID: 1261] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240506_article_1.txt
+
+Cluster 778:
+ - [ID: 1018] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240411_article_8.txt
+ - [ID: 1026] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240412_article_6.txt
+
+Cluster 780:
+ - [ID: 1020] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240411_article_10.txt
+ - [ID: 1024] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240412_article_4.txt
+
+Cluster 781:
+ - [ID: 1021] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240412_article_1.txt
+ - [ID: 1022] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240412_article_2.txt
+ - [ID: 1029] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240412_article_9.txt
+ - [ID: 1031] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240413_article_1.txt
+ - [ID: 1037] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240413_article_7.txt
+
+Cluster 802:
+ - [ID: 1051] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240415_article_1.txt
+ - [ID: 1059] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240415_article_9.txt
+ - [ID: 1068] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240416_article_8.txt
+ - [ID: 1073] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240417_article_3.txt
+ - [ID: 1074] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240417_article_4.txt
+
+Cluster 812:
+ - [ID: 1062] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240416_article_2.txt
+ - [ID: 1151] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240425_article_1.txt
+ - [ID: 1156] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240425_article_6.txt
+ - [ID: 1157] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240425_article_7.txt
+ - [ID: 1210] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240430_article_10.txt
+ - [ID: 1248] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240504_article_8.txt
+ - [ID: 1398] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240519_article_8.txt
+
+Cluster 821:
+ - [ID: 1076] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240417_article_6.txt
+ - [ID: 1085] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240418_article_5.txt
+
+Cluster 826:
+ - [ID: 1081] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240418_article_1.txt
+ - [ID: 1084] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240418_article_4.txt
+
+Cluster 834:
+ - [ID: 1092] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240419_article_2.txt
+ - [ID: 1106] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240420_article_6.txt
+
+Cluster 835:
+ - [ID: 1093] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240419_article_3.txt
+ - [ID: 1096] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240419_article_6.txt
+
+Cluster 850:
+ - [ID: 1112] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240421_article_2.txt
+ - [ID: 1115] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240421_article_5.txt
+
+Cluster 860:
+ - [ID: 1125] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240422_article_5.txt
+ - [ID: 1135] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240423_article_5.txt
+
+Cluster 883:
+ - [ID: 1152] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240425_article_2.txt
+ - [ID: 1154] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240425_article_4.txt
+
+Cluster 919:
+ - [ID: 1194] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240429_article_4.txt
+ - [ID: 1195] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240429_article_5.txt
+ - [ID: 1199] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240429_article_9.txt
+ - [ID: 1202] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240430_article_2.txt
+
+Cluster 921:
+ - [ID: 1197] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240429_article_7.txt
+ - [ID: 1201] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240430_article_1.txt
+
+Cluster 930:
+ - [ID: 1211] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240501_article_1.txt
+ - [ID: 1242] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240504_article_2.txt
+ - [ID: 2162] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240804_article_2.txt
+
+Cluster 939:
+ - [ID: 1220] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240501_article_10.txt
+ - [ID: 1221] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240502_article_1.txt
+ - [ID: 1382] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240518_article_2.txt
+
+Cluster 940:
+ - [ID: 1222] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240502_article_2.txt
+ - [ID: 1229] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240502_article_9.txt
+
+Cluster 951:
+ - [ID: 1235] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240503_article_5.txt
+ - [ID: 1236] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240503_article_6.txt
+
+Cluster 965:
+ - [ID: 1252] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240505_article_2.txt
+ - [ID: 1262] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240506_article_2.txt
+
+Cluster 988:
+ - [ID: 1277] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240507_article_7.txt
+ - [ID: 1281] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240508_article_1.txt
+ - [ID: 1282] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240508_article_2.txt
+ - [ID: 1291] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240509_article_1.txt
+ - [ID: 1965] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240715_article_5.txt
+ - [ID: 1968] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240715_article_8.txt
+ - [ID: 1971] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240716_article_1.txt
+ - [ID: 2003] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240719_article_3.txt
+
+Cluster 989:
+ - [ID: 1278] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240507_article_8.txt
+ - [ID: 1279] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240507_article_9.txt
+ - [ID: 1280] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240507_article_10.txt
+
+Cluster 996:
+ - [ID: 1290] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240508_article_10.txt
+ - [ID: 1299] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240509_article_9.txt
+
+Cluster 1000:
+ - [ID: 1295] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240509_article_5.txt
+ - [ID: 3594] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241225_article_4.txt
+
+Cluster 1007:
+ - [ID: 1303] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240510_article_3.txt
+ - [ID: 1304] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240510_article_4.txt
+ - [ID: 1314] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240511_article_4.txt
+
+Cluster 1009:
+ - [ID: 1306] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240510_article_6.txt
+ - [ID: 1308] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240510_article_8.txt
+
+Cluster 1013:
+ - [ID: 1311] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240511_article_1.txt
+ - [ID: 1322] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240512_article_2.txt
+ - [ID: 1325] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240512_article_5.txt
+
+Cluster 1015:
+ - [ID: 1313] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240511_article_3.txt
+ - [ID: 1315] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240511_article_5.txt
+
+Cluster 1031:
+ - [ID: 1333] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240513_article_3.txt
+ - [ID: 1339] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240513_article_9.txt
+
+Cluster 1043:
+ - [ID: 1346] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240514_article_6.txt
+ - [ID: 1351] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240515_article_1.txt
+ - [ID: 1357] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240515_article_7.txt
+ - [ID: 1361] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240516_article_1.txt
+ - [ID: 1370] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240516_article_10.txt
+ - [ID: 1373] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240517_article_3.txt
+ - [ID: 1375] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240517_article_5.txt
+ - [ID: 1376] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240517_article_6.txt
+ - [ID: 1380] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240517_article_10.txt
+ - [ID: 1381] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240518_article_1.txt
+ - [ID: 1388] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240518_article_8.txt
+ - [ID: 1389] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240518_article_9.txt
+ - [ID: 1391] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240519_article_1.txt
+ - [ID: 1392] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240519_article_2.txt
+ - [ID: 1401] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240520_article_1.txt
+ - [ID: 1409] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240520_article_9.txt
+ - [ID: 1476] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240527_article_6.txt
+ - [ID: 1480] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240527_article_10.txt
+ - [ID: 1495] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240529_article_5.txt
+ - [ID: 1499] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240529_article_9.txt
+ - [ID: 1502] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240530_article_2.txt
+ - [ID: 1518] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240531_article_8.txt
+ - [ID: 1707] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240619_article_7.txt
+ - [ID: 1838] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240702_article_8.txt
+ - [ID: 1844] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240703_article_4.txt
+ - [ID: 1989] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240717_article_9.txt
+ - [ID: 2258] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240813_article_8.txt
+
+Cluster 1070:
+ - [ID: 1383] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240518_article_3.txt
+ - [ID: 1385] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240518_article_5.txt
+
+Cluster 1079:
+ - [ID: 1399] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240519_article_9.txt
+ - [ID: 1413] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240521_article_3.txt
+
+Cluster 1090:
+ - [ID: 1412] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240521_article_2.txt
+ - [ID: 2332] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240821_article_2.txt
+
+Cluster 1100:
+ - [ID: 1423] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240522_article_3.txt
+ - [ID: 1628] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240611_article_8.txt
+
+Cluster 1101:
+ - [ID: 1424] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240522_article_4.txt
+ - [ID: 1429] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240522_article_9.txt
+ - [ID: 1434] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240523_article_4.txt
+
+Cluster 1110:
+ - [ID: 1435] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240523_article_5.txt
+ - [ID: 1440] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240523_article_10.txt
+ - [ID: 1443] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240524_article_3.txt
+ - [ID: 1485] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240528_article_5.txt
+
+Cluster 1115:
+ - [ID: 1441] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240524_article_1.txt
+ - [ID: 1448] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240524_article_8.txt
+
+Cluster 1130:
+ - [ID: 1459] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240525_article_9.txt
+ - [ID: 1463] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240526_article_3.txt
+
+Cluster 1144:
+ - [ID: 1478] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240527_article_8.txt
+ - [ID: 1490] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240528_article_10.txt
+
+Cluster 1148:
+ - [ID: 1483] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240528_article_3.txt
+ - [ID: 1509] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240530_article_9.txt
+
+Cluster 1158:
+ - [ID: 1497] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240529_article_7.txt
+ - [ID: 2169] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240804_article_9.txt
+ - [ID: 2502] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240907_article_2.txt
+
+Cluster 1170:
+ - [ID: 1512] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240531_article_2.txt
+ - [ID: 1519] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240531_article_9.txt
+
+Cluster 1173:
+ - [ID: 1515] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240531_article_5.txt
+ - [ID: 1523] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240601_article_3.txt
+
+Cluster 1205:
+ - [ID: 1550] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240603_article_10.txt
+ - [ID: 2729] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240929_article_9.txt
+
+Cluster 1213:
+ - [ID: 1558] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240604_article_8.txt
+ - [ID: 2142] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240802_article_2.txt
+
+Cluster 1240:
+ - [ID: 1585] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240607_article_5.txt
+ - [ID: 1587] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240607_article_7.txt
+
+Cluster 1265:
+ - [ID: 1613] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240610_article_3.txt
+ - [ID: 1622] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240611_article_2.txt
+
+Cluster 1313:
+ - [ID: 1665] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240615_article_5.txt
+ - [ID: 1780] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240626_article_10.txt
+
+Cluster 1321:
+ - [ID: 1673] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240616_article_3.txt
+ - [ID: 1689] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240617_article_9.txt
+
+Cluster 1357:
+ - [ID: 1713] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240620_article_3.txt
+ - [ID: 1715] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240620_article_5.txt
+
+Cluster 1380:
+ - [ID: 1743] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240623_article_3.txt
+ - [ID: 1820] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240630_article_10.txt
+ - [ID: 1827] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240701_article_7.txt
+
+Cluster 1387:
+ - [ID: 1753] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240624_article_3.txt
+ - [ID: 1766] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240625_article_6.txt
+
+Cluster 1389:
+ - [ID: 1755] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240624_article_5.txt
+ - [ID: 1757] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240624_article_7.txt
+
+Cluster 1392:
+ - [ID: 1759] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240624_article_9.txt
+ - [ID: 1763] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240625_article_3.txt
+
+Cluster 1394:
+ - [ID: 1761] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240625_article_1.txt
+ - [ID: 1778] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240626_article_8.txt
+
+Cluster 1397:
+ - [ID: 1765] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240625_article_5.txt
+ - [ID: 2105] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240729_article_5.txt
+ - [ID: 2160] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240803_article_10.txt
+ - [ID: 2890] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241015_article_10.txt
+ - [ID: 3574] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241223_article_4.txt
+
+Cluster 1400:
+ - [ID: 1771] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240626_article_1.txt
+ - [ID: 1772] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240626_article_2.txt
+ - [ID: 1773] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240626_article_3.txt
+ - [ID: 1786] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240627_article_6.txt
+ - [ID: 2110] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240729_article_10.txt
+ - [ID: 2482] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240905_article_2.txt
+ - [ID: 2488] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240905_article_8.txt
+ - [ID: 2491] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240906_article_1.txt
+ - [ID: 2493] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240906_article_3.txt
+ - [ID: 2494] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240906_article_4.txt
+ - [ID: 2506] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240907_article_6.txt
+ - [ID: 2511] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240908_article_1.txt
+ - [ID: 2515] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240908_article_5.txt
+ - [ID: 2522] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240909_article_2.txt
+ - [ID: 2523] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240909_article_3.txt
+ - [ID: 2524] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240909_article_4.txt
+ - [ID: 2624] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240919_article_4.txt
+ - [ID: 2644] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240921_article_4.txt
+ - [ID: 2649] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240921_article_9.txt
+ - [ID: 2781] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241005_article_1.txt
+ - [ID: 2801] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241007_article_1.txt
+ - [ID: 2814] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241008_article_4.txt
+ - [ID: 2816] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241008_article_6.txt
+
+Cluster 1407:
+ - [ID: 1783] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240627_article_3.txt
+ - [ID: 1784] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240627_article_4.txt
+ - [ID: 1787] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240627_article_7.txt
+ - [ID: 1789] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240627_article_9.txt
+ - [ID: 1790] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240627_article_10.txt
+ - [ID: 1791] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240628_article_1.txt
+ - [ID: 1796] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240628_article_6.txt
+ - [ID: 1802] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240629_article_2.txt
+ - [ID: 1803] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240629_article_3.txt
+ - [ID: 1822] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240701_article_2.txt
+ - [ID: 1825] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240701_article_5.txt
+ - [ID: 1866] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240705_article_6.txt
+
+Cluster 1420:
+ - [ID: 1805] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240629_article_5.txt
+ - [ID: 1809] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240629_article_9.txt
+
+Cluster 1460:
+ - [ID: 1856] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240704_article_6.txt
+ - [ID: 1863] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240705_article_3.txt
+
+Cluster 1462:
+ - [ID: 1858] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240704_article_8.txt
+ - [ID: 2908] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241017_article_8.txt
+
+Cluster 1476:
+ - [ID: 1874] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240706_article_4.txt
+ - [ID: 1888] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240707_article_8.txt
+
+Cluster 1483:
+ - [ID: 1882] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240707_article_2.txt
+ - [ID: 1890] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240707_article_10.txt
+
+Cluster 1491:
+ - [ID: 1893] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240708_article_3.txt
+ - [ID: 1901] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240709_article_1.txt
+ - [ID: 1961] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240715_article_1.txt
+ - [ID: 2026] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240721_article_6.txt
+ - [ID: 2102] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240729_article_2.txt
+ - [ID: 2103] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240729_article_3.txt
+ - [ID: 2107] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240729_article_7.txt
+ - [ID: 2111] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240730_article_1.txt
+ - [ID: 2112] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240730_article_2.txt
+ - [ID: 2116] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240730_article_6.txt
+ - [ID: 2124] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240731_article_4.txt
+ - [ID: 2128] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240731_article_8.txt
+ - [ID: 2130] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240731_article_10.txt
+ - [ID: 2131] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240801_article_1.txt
+ - [ID: 2141] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240802_article_1.txt
+ - [ID: 2152] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240803_article_2.txt
+ - [ID: 2249] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240812_article_9.txt
+ - [ID: 2254] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240813_article_4.txt
+ - [ID: 2264] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240814_article_4.txt
+ - [ID: 2330] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240820_article_10.txt
+ - [ID: 2335] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240821_article_5.txt
+ - [ID: 2462] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240903_article_2.txt
+ - [ID: 2465] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240903_article_5.txt
+ - [ID: 2472] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240904_article_2.txt
+ - [ID: 2841] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241011_article_1.txt
+ - [ID: 2852] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241012_article_2.txt
+ - [ID: 2883] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241015_article_3.txt
+
+Cluster 1500:
+ - [ID: 1904] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240709_article_4.txt
+ - [ID: 1915] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240710_article_5.txt
+
+Cluster 1502:
+ - [ID: 1906] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240709_article_6.txt
+ - [ID: 1910] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240709_article_10.txt
+
+Cluster 1503:
+ - [ID: 1907] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240709_article_7.txt
+ - [ID: 1920] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240710_article_10.txt
+
+Cluster 1506:
+ - [ID: 1912] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240710_article_2.txt
+ - [ID: 2460] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240902_article_10.txt
+ - [ID: 2461] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240903_article_1.txt
+
+Cluster 1511:
+ - [ID: 1921] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240711_article_1.txt
+ - [ID: 2072] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240726_article_2.txt
+ - [ID: 2088] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240727_article_8.txt
+
+Cluster 1538:
+ - [ID: 1949] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240713_article_9.txt
+ - [ID: 1955] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240714_article_5.txt
+
+Cluster 1540:
+ - [ID: 1951] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240714_article_1.txt
+ - [ID: 1998] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240718_article_8.txt
+
+Cluster 1557:
+ - [ID: 1977] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240716_article_7.txt
+ - [ID: 1985] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240717_article_5.txt
+
+Cluster 1564:
+ - [ID: 1986] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240717_article_6.txt
+ - [ID: 2017] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240720_article_7.txt
+
+Cluster 1568:
+ - [ID: 1991] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240718_article_1.txt
+ - [ID: 2006] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240719_article_6.txt
+
+Cluster 1570:
+ - [ID: 1993] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240718_article_3.txt
+ - [ID: 2002] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240719_article_2.txt
+ - [ID: 2005] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240719_article_5.txt
+
+Cluster 1574:
+ - [ID: 1997] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240718_article_7.txt
+ - [ID: 2011] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240720_article_1.txt
+
+Cluster 1577:
+ - [ID: 2001] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240719_article_1.txt
+ - [ID: 2009] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240719_article_9.txt
+
+Cluster 1582:
+ - [ID: 2012] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240720_article_2.txt
+ - [ID: 2029] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240721_article_9.txt
+
+Cluster 1584:
+ - [ID: 2014] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240720_article_4.txt
+ - [ID: 2024] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240721_article_4.txt
+
+Cluster 1591:
+ - [ID: 2023] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240721_article_3.txt
+ - [ID: 2025] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240721_article_5.txt
+
+Cluster 1593:
+ - [ID: 2028] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240721_article_8.txt
+ - [ID: 2037] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240722_article_7.txt
+
+Cluster 1596:
+ - [ID: 2035] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240722_article_5.txt
+ - [ID: 2172] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240805_article_2.txt
+ - [ID: 2694] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240926_article_4.txt
+
+Cluster 1605:
+ - [ID: 2045] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240723_article_5.txt
+ - [ID: 2056] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240724_article_6.txt
+
+Cluster 1608:
+ - [ID: 2048] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240723_article_8.txt
+ - [ID: 2052] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240724_article_2.txt
+
+Cluster 1611:
+ - [ID: 2054] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240724_article_4.txt
+ - [ID: 2066] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240725_article_6.txt
+
+Cluster 1628:
+ - [ID: 2078] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240726_article_8.txt
+ - [ID: 2090] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240727_article_10.txt
+
+Cluster 1633:
+ - [ID: 2083] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240727_article_3.txt
+ - [ID: 2093] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240728_article_3.txt
+
+Cluster 1634:
+ - [ID: 2084] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240727_article_4.txt
+ - [ID: 2091] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240728_article_1.txt
+
+Cluster 1639:
+ - [ID: 2092] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240728_article_2.txt
+ - [ID: 2094] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240728_article_4.txt
+ - [ID: 2095] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240728_article_5.txt
+ - [ID: 2100] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240728_article_10.txt
+ - [ID: 2104] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240729_article_4.txt
+ - [ID: 2106] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240729_article_6.txt
+ - [ID: 2109] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240729_article_9.txt
+ - [ID: 2123] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240731_article_3.txt
+ - [ID: 2127] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240731_article_7.txt
+ - [ID: 2133] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240801_article_3.txt
+
+Cluster 1665:
+ - [ID: 2144] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240802_article_4.txt
+ - [ID: 2155] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240803_article_5.txt
+
+Cluster 1667:
+ - [ID: 2146] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240802_article_6.txt
+ - [ID: 2147] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240802_article_7.txt
+
+Cluster 1700:
+ - [ID: 2189] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240806_article_9.txt
+ - [ID: 2453] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240902_article_3.txt
+
+Cluster 1709:
+ - [ID: 2198] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240807_article_8.txt
+ - [ID: 2199] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240807_article_9.txt
+
+Cluster 1711:
+ - [ID: 2202] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240808_article_2.txt
+ - [ID: 2218] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240809_article_8.txt
+
+Cluster 1717:
+ - [ID: 2211] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240809_article_1.txt
+ - [ID: 2213] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240809_article_3.txt
+ - [ID: 2216] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240809_article_6.txt
+ - [ID: 2217] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240809_article_7.txt
+ - [ID: 2229] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240810_article_9.txt
+ - [ID: 2242] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240812_article_2.txt
+
+Cluster 1748:
+ - [ID: 2250] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240812_article_10.txt
+ - [ID: 2251] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240813_article_1.txt
+
+Cluster 1756:
+ - [ID: 2261] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240814_article_1.txt
+ - [ID: 2277] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240815_article_7.txt
+
+Cluster 1759:
+ - [ID: 2265] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240814_article_5.txt
+ - [ID: 2273] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240815_article_3.txt
+
+Cluster 1761:
+ - [ID: 2267] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240814_article_7.txt
+ - [ID: 2272] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240815_article_2.txt
+
+Cluster 1786:
+ - [ID: 2299] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240817_article_9.txt
+ - [ID: 2303] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240818_article_3.txt
+
+Cluster 1788:
+ - [ID: 2301] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240818_article_1.txt
+ - [ID: 2320] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240819_article_10.txt
+
+Cluster 1794:
+ - [ID: 2308] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240818_article_8.txt
+ - [ID: 2319] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240819_article_9.txt
+
+Cluster 1805:
+ - [ID: 2323] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240820_article_3.txt
+ - [ID: 2340] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240821_article_10.txt
+
+Cluster 1816:
+ - [ID: 2339] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240821_article_9.txt
+ - [ID: 2347] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240822_article_7.txt
+
+Cluster 1824:
+ - [ID: 2349] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240822_article_9.txt
+ - [ID: 2354] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240823_article_4.txt
+
+Cluster 1827:
+ - [ID: 2352] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240823_article_2.txt
+ - [ID: 2358] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240823_article_8.txt
+
+Cluster 1833:
+ - [ID: 2361] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240824_article_1.txt
+ - [ID: 2363] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240824_article_3.txt
+
+Cluster 1835:
+ - [ID: 2364] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240824_article_4.txt
+ - [ID: 2375] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240825_article_5.txt
+
+Cluster 1836:
+ - [ID: 2365] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240824_article_5.txt
+ - [ID: 2444] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240901_article_4.txt
+
+Cluster 1841:
+ - [ID: 2371] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240825_article_1.txt
+ - [ID: 2430] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240830_article_10.txt
+
+Cluster 1844:
+ - [ID: 2374] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240825_article_4.txt
+ - [ID: 2436] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240831_article_6.txt
+
+Cluster 1868:
+ - [ID: 2402] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240828_article_2.txt
+ - [ID: 2404] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240828_article_4.txt
+ - [ID: 2408] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240828_article_8.txt
+
+Cluster 1874:
+ - [ID: 2412] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240829_article_2.txt
+ - [ID: 2426] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240830_article_6.txt
+
+Cluster 1890:
+ - [ID: 2432] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240831_article_2.txt
+ - [ID: 2455] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240902_article_5.txt
+
+Cluster 1906:
+ - [ID: 2450] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240901_article_10.txt
+ - [ID: 2454] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240902_article_4.txt
+
+Cluster 1913:
+ - [ID: 2463] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240903_article_3.txt
+ - [ID: 2475] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240904_article_5.txt
+
+Cluster 1917:
+ - [ID: 2468] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240903_article_8.txt
+ - [ID: 2499] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240906_article_9.txt
+
+Cluster 1928:
+ - [ID: 2481] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240905_article_1.txt
+ - [ID: 2487] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240905_article_7.txt
+ - [ID: 2599] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240916_article_9.txt
+
+Cluster 1948:
+ - [ID: 2510] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240907_article_10.txt
+ - [ID: 2516] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240908_article_6.txt
+
+Cluster 1961:
+ - [ID: 2529] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240909_article_9.txt
+ - [ID: 2664] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240923_article_4.txt
+ - [ID: 2673] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240924_article_3.txt
+
+Cluster 1962:
+ - [ID: 2531] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240910_article_1.txt
+ - [ID: 2544] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240911_article_4.txt
+ - [ID: 2552] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240912_article_2.txt
+ - [ID: 2571] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240914_article_1.txt
+ - [ID: 2581] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240915_article_1.txt
+ - [ID: 2597] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240916_article_7.txt
+ - [ID: 2837] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241010_article_7.txt
+
+Cluster 1977:
+ - [ID: 2547] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240911_article_7.txt
+ - [ID: 2567] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240913_article_7.txt
+ - [ID: 2626] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240919_article_6.txt
+ - [ID: 2720] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240928_article_10.txt
+
+Cluster 1980:
+ - [ID: 2550] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240911_article_10.txt
+ - [ID: 2551] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240912_article_1.txt
+
+Cluster 1987:
+ - [ID: 2559] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240912_article_9.txt
+ - [ID: 3042] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241031_article_2.txt
+ - [ID: 3159] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241111_article_9.txt
+
+Cluster 2016:
+ - [ID: 2591] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240916_article_1.txt
+ - [ID: 2592] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240916_article_2.txt
+ - [ID: 2607] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240917_article_7.txt
+
+Cluster 2023:
+ - [ID: 2601] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240917_article_1.txt
+ - [ID: 2622] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240919_article_2.txt
+ - [ID: 2625] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240919_article_5.txt
+ - [ID: 2629] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240919_article_9.txt
+ - [ID: 2638] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240920_article_8.txt
+ - [ID: 2663] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240923_article_3.txt
+
+Cluster 2033:
+ - [ID: 2612] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240918_article_2.txt
+ - [ID: 3242] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241120_article_2.txt
+ - [ID: 3267] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241122_article_7.txt
+
+Cluster 2074:
+ - [ID: 2665] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240923_article_5.txt
+ - [ID: 2668] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240923_article_8.txt
+
+Cluster 2114:
+ - [ID: 2711] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240928_article_1.txt
+ - [ID: 2712] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20240928_article_2.txt
+
+Cluster 2149:
+ - [ID: 2749] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241001_article_9.txt
+ - [ID: 2755] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241002_article_5.txt
+
+Cluster 2164:
+ - [ID: 2771] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241004_article_1.txt
+ - [ID: 2786] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241005_article_6.txt
+
+Cluster 2192:
+ - [ID: 2804] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241007_article_4.txt
+ - [ID: 2812] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241008_article_2.txt
+
+Cluster 2194:
+ - [ID: 2806] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241007_article_6.txt
+ - [ID: 2815] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241008_article_5.txt
+
+Cluster 2215:
+ - [ID: 2831] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241010_article_1.txt
+ - [ID: 3449] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241210_article_9.txt
+ - [ID: 3456] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241211_article_6.txt
+ - [ID: 3458] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241211_article_8.txt
+
+Cluster 2217:
+ - [ID: 2833] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241010_article_3.txt
+ - [ID: 2850] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241011_article_10.txt
+
+Cluster 2225:
+ - [ID: 2843] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241011_article_3.txt
+ - [ID: 2965] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241023_article_5.txt
+
+Cluster 2256:
+ - [ID: 2876] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241014_article_6.txt
+ - [ID: 2878] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241014_article_8.txt
+ - [ID: 2881] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241015_article_1.txt
+ - [ID: 2891] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241016_article_1.txt
+
+Cluster 2277:
+ - [ID: 2905] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241017_article_5.txt
+ - [ID: 2941] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241021_article_1.txt
+ - [ID: 2950] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241021_article_10.txt
+ - [ID: 2969] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241023_article_9.txt
+
+Cluster 2280:
+ - [ID: 2910] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241017_article_10.txt
+ - [ID: 2917] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241018_article_7.txt
+
+Cluster 2306:
+ - [ID: 2944] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241021_article_4.txt
+ - [ID: 2948] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241021_article_8.txt
+
+Cluster 2310:
+ - [ID: 2949] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241021_article_9.txt
+ - [ID: 3057] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241101_article_7.txt
+
+Cluster 2326:
+ - [ID: 2971] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241024_article_1.txt
+ - [ID: 2997] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241026_article_7.txt
+
+Cluster 2328:
+ - [ID: 2974] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241024_article_4.txt
+ - [ID: 2982] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241025_article_2.txt
+
+Cluster 2338:
+ - [ID: 2987] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241025_article_7.txt
+ - [ID: 2995] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241026_article_5.txt
+ - [ID: 3008] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241027_article_8.txt
+ - [ID: 3012] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241028_article_2.txt
+ - [ID: 3017] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241028_article_7.txt
+ - [ID: 3025] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241029_article_5.txt
+ - [ID: 3026] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241029_article_6.txt
+ - [ID: 3310] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241126_article_10.txt
+
+Cluster 2339:
+ - [ID: 2988] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241025_article_8.txt
+ - [ID: 3029] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241029_article_9.txt
+
+Cluster 2345:
+ - [ID: 2999] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241026_article_9.txt
+ - [ID: 3018] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241028_article_8.txt
+
+Cluster 2362:
+ - [ID: 3034] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241030_article_4.txt
+ - [ID: 3035] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241030_article_5.txt
+
+Cluster 2377:
+ - [ID: 3052] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241101_article_2.txt
+ - [ID: 3097] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241105_article_7.txt
+
+Cluster 2378:
+ - [ID: 3053] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241101_article_3.txt
+ - [ID: 3066] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241102_article_6.txt
+
+Cluster 2379:
+ - [ID: 3054] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241101_article_4.txt
+ - [ID: 3108] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241106_article_8.txt
+
+Cluster 2396:
+ - [ID: 3074] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241103_article_4.txt
+ - [ID: 3086] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241104_article_6.txt
+
+Cluster 2407:
+ - [ID: 3088] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241104_article_8.txt
+ - [ID: 3253] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241121_article_3.txt
+
+Cluster 2413:
+ - [ID: 3095] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241105_article_5.txt
+ - [ID: 3117] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241107_article_7.txt
+
+Cluster 2424:
+ - [ID: 3109] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241106_article_9.txt
+ - [ID: 3114] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241107_article_4.txt
+ - [ID: 3150] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241110_article_10.txt
+
+Cluster 2436:
+ - [ID: 3124] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241108_article_4.txt
+ - [ID: 3125] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241108_article_5.txt
+
+Cluster 2441:
+ - [ID: 3131] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241109_article_1.txt
+ - [ID: 3138] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241109_article_8.txt
+ - [ID: 3283] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241124_article_3.txt
+ - [ID: 3291] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241125_article_1.txt
+ - [ID: 3292] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241125_article_2.txt
+ - [ID: 3294] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241125_article_4.txt
+ - [ID: 3295] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241125_article_5.txt
+ - [ID: 3297] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241125_article_7.txt
+ - [ID: 3298] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241125_article_8.txt
+ - [ID: 3302] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241126_article_2.txt
+ - [ID: 3303] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241126_article_3.txt
+ - [ID: 3312] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241127_article_2.txt
+ - [ID: 3342] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241130_article_2.txt
+ - [ID: 3477] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241213_article_7.txt
+ - [ID: 3487] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241214_article_7.txt
+
+Cluster 2444:
+ - [ID: 3134] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241109_article_4.txt
+ - [ID: 3149] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241110_article_9.txt
+
+Cluster 2452:
+ - [ID: 3143] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241110_article_3.txt
+ - [ID: 3155] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241111_article_5.txt
+
+Cluster 2454:
+ - [ID: 3145] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241110_article_5.txt
+ - [ID: 3154] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241111_article_4.txt
+
+Cluster 2465:
+ - [ID: 3161] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241112_article_1.txt
+ - [ID: 3163] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241112_article_3.txt
+ - [ID: 3172] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241113_article_2.txt
+ - [ID: 3179] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241113_article_9.txt
+ - [ID: 3196] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241115_article_6.txt
+
+Cluster 2469:
+ - [ID: 3166] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241112_article_6.txt
+ - [ID: 3180] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241113_article_10.txt
+
+Cluster 2518:
+ - [ID: 3222] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241118_article_2.txt
+ - [ID: 3226] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241118_article_6.txt
+
+Cluster 2519:
+ - [ID: 3223] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241118_article_3.txt
+ - [ID: 3238] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241119_article_8.txt
+ - [ID: 3489] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241214_article_9.txt
+
+Cluster 2522:
+ - [ID: 3227] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241118_article_7.txt
+ - [ID: 3231] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241119_article_1.txt
+
+Cluster 2534:
+ - [ID: 3243] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241120_article_3.txt
+ - [ID: 3257] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241121_article_7.txt
+
+Cluster 2535:
+ - [ID: 3244] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241120_article_4.txt
+ - [ID: 3245] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241120_article_5.txt
+
+Cluster 2536:
+ - [ID: 3246] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241120_article_6.txt
+ - [ID: 3249] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241120_article_9.txt
+
+Cluster 2552:
+ - [ID: 3265] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241122_article_5.txt
+ - [ID: 3280] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241123_article_10.txt
+
+Cluster 2557:
+ - [ID: 3271] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241123_article_1.txt
+ - [ID: 3328] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241128_article_8.txt
+ - [ID: 3335] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241129_article_5.txt
+
+Cluster 2558:
+ - [ID: 3272] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241123_article_2.txt
+ - [ID: 3287] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241124_article_7.txt
+
+Cluster 2566:
+ - [ID: 3281] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241124_article_1.txt
+ - [ID: 3293] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241125_article_3.txt
+
+Cluster 2567:
+ - [ID: 3282] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241124_article_2.txt
+ - [ID: 3296] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241125_article_6.txt
+
+Cluster 2592:
+ - [ID: 3322] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241128_article_2.txt
+ - [ID: 3352] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241201_article_2.txt
+ - [ID: 3370] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241202_article_10.txt
+
+Cluster 2593:
+ - [ID: 3323] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241128_article_3.txt
+ - [ID: 3326] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241128_article_6.txt
+
+Cluster 2594:
+ - [ID: 3324] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241128_article_4.txt
+ - [ID: 3339] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241129_article_9.txt
+
+Cluster 2614:
+ - [ID: 3351] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241201_article_1.txt
+ - [ID: 3360] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241201_article_10.txt
+
+Cluster 2624:
+ - [ID: 3363] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241202_article_3.txt
+ - [ID: 3373] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241203_article_3.txt
+
+Cluster 2631:
+ - [ID: 3371] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241203_article_1.txt
+ - [ID: 3374] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241203_article_4.txt
+
+Cluster 2642:
+ - [ID: 3384] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241204_article_4.txt
+ - [ID: 3389] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241204_article_9.txt
+
+Cluster 2658:
+ - [ID: 3401] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241206_article_1.txt
+ - [ID: 3475] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241213_article_5.txt
+
+Cluster 2659:
+ - [ID: 3402] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241206_article_2.txt
+ - [ID: 3427] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241208_article_7.txt
+
+Cluster 2694:
+ - [ID: 3438] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241209_article_8.txt
+ - [ID: 3627] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241228_article_7.txt
+
+Cluster 2698:
+ - [ID: 3442] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241210_article_2.txt
+ - [ID: 3444] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241210_article_4.txt
+
+Cluster 2701:
+ - [ID: 3446] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241210_article_6.txt
+ - [ID: 3454] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241211_article_4.txt
+
+Cluster 2706:
+ - [ID: 3452] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241211_article_2.txt
+ - [ID: 3455] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241211_article_5.txt
+
+Cluster 2707:
+ - [ID: 3453] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241211_article_3.txt
+ - [ID: 3467] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241212_article_7.txt
+
+Cluster 2728:
+ - [ID: 3484] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241214_article_4.txt
+ - [ID: 3485] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241214_article_5.txt
+
+Cluster 2738:
+ - [ID: 3497] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241215_article_7.txt
+ - [ID: 3500] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241215_article_10.txt
+
+Cluster 2742:
+ - [ID: 3502] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241216_article_2.txt
+ - [ID: 3518] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241217_article_8.txt
+
+Cluster 2743:
+ - [ID: 3503] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241216_article_3.txt
+ - [ID: 3508] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241216_article_8.txt
+
+Cluster 2753:
+ - [ID: 3515] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241217_article_5.txt
+ - [ID: 3527] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241218_article_7.txt
+
+Cluster 2758:
+ - [ID: 3521] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241218_article_1.txt
+ - [ID: 3537] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241219_article_7.txt
+
+Cluster 2767:
+ - [ID: 3531] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241219_article_1.txt
+ - [ID: 3539] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241219_article_9.txt
+ - [ID: 3541] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241220_article_1.txt
+ - [ID: 3548] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241220_article_8.txt
+
+Cluster 2791:
+ - [ID: 3561] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241222_article_1.txt
+ - [ID: 3562] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241222_article_2.txt
+ - [ID: 3569] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241222_article_9.txt
+
+Cluster 2793:
+ - [ID: 3564] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241222_article_4.txt
+ - [ID: 3568] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241222_article_8.txt
+
+Cluster 2857:
+ - [ID: 3635] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241229_article_5.txt
+ - [ID: 3637] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241229_article_7.txt
+ - [ID: 3638] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241229_article_8.txt
+ - [ID: 3640] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241229_article_10.txt
+
+Cluster 2863:
+ - [ID: 3644] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241230_article_4.txt
+ - [ID: 3653] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241231_article_3.txt
+ - [ID: 3655] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241231_article_5.txt
+
+Cluster 2867:
+ - [ID: 3648] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241230_article_8.txt
+ - [ID: 3649] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241230_article_9.txt
+ - [ID: 3656] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241231_article_6.txt
+
+Cluster 2870:
+ - [ID: 3652] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241231_article_2.txt
+ - [ID: 3659] C:/Users/WINDOWS 11/Desktop/kpop_agenda/20241231_article_9.txt
