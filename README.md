@@ -2,6 +2,10 @@
 
 Ongoing research notes on the K-Pop Agenda Dynamics research by Jihyung Kim & Kassenov Mansur.
 
+Note that this repo is very "raw"as this research is undergoing work.
+
+
+
 # Important Note
 
 This README.md will be edited greatly on the first few weeks of 2026, as a lot of data processing can be done after 2025 ends.
@@ -13,7 +17,10 @@ This README.md will be edited greatly on the first few weeks of 2026, as a lot o
 **Data Source**:
 
 1. News data via links provided through Naver News. 
-2. DC inside - OK, Nate Pann (네이트 판) - Not sure, Theqoo (더쿠) - Login Required to search, FMKorea - OK, MLBPARK - OK
+
+2. DC iIside - OK, Nate Pann (네이트 판) - Not sure, Theqoo (더쿠) - Login Required to search, FMKorea - OK, MLBPARK - OK
+
+We will likely start with only DC Inside
 
 ## Step 1 - Cluster News Articles to Distinct Agenda Topics
 
@@ -21,7 +28,7 @@ This README.md will be edited greatly on the first few weeks of 2026, as a lot o
 
 From Jan 1st, 2025 to Dec 31rd, 2025, the 10 articles with the highest number of daily views will be collected. Some articles could not be found, likely because the original articles were deleted. However, it was a extremely small portion of the total number of collected articles and therefore we moved on.
 Then, I obtained the article texts for the 3658 articles.
-[Source code for Content Crawler](https://github.com/LoveLow-Global/kpop-agenda-sentiment/blob/main/Step1/Step1-1/content_crawler.ipynb)
+[Content Crawler]()
 Article texts are not on this repository, but you can run the codes provided and get them yourself.
 
 ### 1.2 - Check news articles with same content
@@ -32,20 +39,17 @@ Sort out the news articles with the same content. It is very likely that differe
 
 Apply topic modeling on the gathered news articles, used KoBERT.
 
-The research paper below uses LDA(u_mass).
 
-[K-POP 아이돌 그룹의 세대별 이슈 변화 분석 고찰 - 뉴스 빅데이터를 중심으로](https://www-dbpia-co-kr-ssl.access.yonsei.ac.kr/journal/articleDetail?nodeId=NODE11889791),[Topic Granularity & Hallucination LLM Topic Modelling](https://arxiv-org.access.yonsei.ac.kr/abs/2405.00611), 
-[multi-granularity learning towards open topic classification](https://www-sciencedirect-com-ssl.access.yonsei.ac.kr/science/article/pii/S0020025521011555), [Granularity of algorithmically constructed publication-level classifications of research publications: Identification of topics](https://arxiv-org.access.yonsei.ac.kr/abs/1801.02466)
 
 ## Step 2 - Analysis on the Diffusion of each Article and Sentiment
 
 ### 2.1 - Select some news over different topics.
 
-Select the top **5-10** most influential news per topic type. (numbers subject to change)
+Select the top **5-10** most influential (= most views) news per topic type. (numbers subject to change)
 
 ### 2.2 - Analysis
 
-Analyze the user reactions on various websites / SNS platforms. (number of likes, comments, views)
+Analyze the user reactions on  websites. (number of likes, comments, views)
 
 As most articles regarding K-pop have clear keywords (usually the person / group / company name), we can analyze the articles with these keywords included in the title or text.
 
@@ -53,7 +57,7 @@ As most articles regarding K-pop have clear keywords (usually the person / group
 
 Analyze the number of the keywords appearing before / after the news article being posted. Check how long it takes for the news to be at its highest attention. On top of that, we can also check the number of changes in the positive / negative word usage around the keywords. (Useful for platforms like DCinside)
 
-$\to$ We can also do this by counting the number of related tags on a SNS platform before / after the news article posted (Useful for platforms like Instagram)
+$\to$ We can also do this by counting the number of related tags on a community platform before / after the news article posted
 
 From this, we can draw insights on the distinct agenda topics and their differences when it comes to information diffusion and reactions. We can also **compare the different information diffusion and reactions across different platforms**.
 
@@ -63,3 +67,17 @@ For example, after the news of 카리나 and 이재욱 dating was first told to 
 
 ## Step 3 - Comparison Between the Different Diffusion and Sentiment Across Different Topics and Platforms
 
+## Related papers
+
+https://journals.sagepub.com/doi/abs/10.1177/107769900608300205
+
+https://www.researchgate.net/publication/317271223_The_attribute_agenda-setting_influence_of_online_community_on_online_newscast_investigating_the_South_Korean_Sewol_ferry_tragedy
+
+http://www.korfin.org/korfin_file/forum/2017co-conf11-3.pdf
+
+https://www.researchgate.net/publication/395443134_The_Collapse_and_Rebuilding_of_K-POP_Idols'_Persona
+
+The research paper below uses LDA(u_mass).
+
+[K-POP 아이돌 그룹의 세대별 이슈 변화 분석 고찰 - 뉴스 빅데이터를 중심으로](https://www-dbpia-co-kr-ssl.access.yonsei.ac.kr/journal/articleDetail?nodeId=NODE11889791),[Topic Granularity & Hallucination LLM Topic Modelling](https://arxiv-org.access.yonsei.ac.kr/abs/2405.00611), 
+[multi-granularity learning towards open topic classification](https://www-sciencedirect-com-ssl.access.yonsei.ac.kr/science/article/pii/S0020025521011555), [Granularity of algorithmically constructed publication-level classifications of research publications: Identification of topics](https://arxiv-org.access.yonsei.ac.kr/abs/1801.02466)
