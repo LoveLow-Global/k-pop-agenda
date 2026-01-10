@@ -12,13 +12,13 @@ This README.md will be edited greatly on the first few weeks of 2026, as a lot o
 
 **One line summary**: Sort K-pop related articles into distinct agenda topics, then check the characteristics of community response for each distinct agenda topics. We may also compare how the community response differ from one online community / SNS platform to another.
 
-**Target of Analysis**: Top K-pop related articles on [Naver Entertainment](https://m.entertain.naver.com/series?tab=subject&categoryId=ALL), from 20250101 to 20251231
+**Target of Analysis**: Top K-pop related articles on [Naver Entertainment](https://m.entertain.naver.com/series?tab=subject&categoryId=ALL), from 20241201 to 20251130
 
 **Data Source**:
 
 1. News data via links provided through Naver News. 
 
-2. DC iIside - OK, Nate Pann (네이트 판) - Not sure, Theqoo (더쿠) - Login Required to search, FMKorea - OK, MLBPARK - OK
+2. DC Inside, potentially other online communitities
 
 We will likely start with only DC Inside
 
