@@ -1,35 +1,24 @@
 # K-Pop Agenda Dynamics: A Comparative Analysis of Topic Diffusion and Sentiment on News and Social Media
 
-Ongoing research notes on the K-Pop Agenda Dynamics research by Jihyung Kim & Kassenov Mansur.
+Ongoing research notes on the K-Pop Agenda Dynamics research by [Jihyung Kim](https://github.com/LoveLow-Global) & [Kassenov Mansur](https://github.com/KsnvMnsr).
 
-Note that this repo is very "raw"as this research is undergoing work.
-
-
-
-# Important Note
-
-This README.md will be edited greatly on the first few weeks of 2026, as a lot of data processing can be done after 2025 ends.
+Note that this repo is very "raw" as this research is undergoing work.
 
 **One line summary**: Sort K-pop related articles into distinct agenda topics, then check the characteristics of community response for each distinct agenda topics. We may also compare how the community response differ from one online community / SNS platform to another.
 
-**Target of Analysis**: Top K-pop related articles on [Naver Entertainment](https://m.entertain.naver.com/series?tab=subject&categoryId=ALL), from 20241201 to 20251130
+**Target of Analysis**: Top K-pop related articles on [Naver Entertainment](https://m.entertain.naver.com/series?tab=subject&categoryId=ALL), from 2024-12-01 to 2025-11-30 (YYYY-MM-DD format).
 
 **Data Source**:
 
 1. News data via links provided through Naver News. 
 
-2. DC Inside, potentially other online communitities
-
-We will likely start with only DC Inside
+2. DC Inside, potentially other online communitities.
 
 ## Step 1 - Cluster News Articles to Distinct Agenda Topics
 
 ### 1.1 - News Data Collection
 
 From Jan 1st, 2025 to Dec 31rd, 2025, the 10 articles with the highest number of daily views will be collected. Some articles could not be found, likely because the original articles were deleted. However, it was a extremely small portion of the total number of collected articles and therefore we moved on.
-Then, I obtained the article texts for the 3658 articles.
-[Content Crawler]()
-Article texts are not on this repository, but you can run the codes provided and get them yourself.
 
 ### 1.2 - Check news articles with same content
 
@@ -37,9 +26,7 @@ Sort out the news articles with the same content. It is very likely that differe
 
 ### 1.3 - Topic Modeling
 
-Apply topic modeling on the gathered news articles, used KoBERT.
-
-
+Apply topic modeling on the gathered news articles, currently comparing different methods (such as BERT based methods and LDA) and parameters.
 
 ## Step 2 - Analysis on the Diffusion of each Article and Sentiment
 
@@ -55,7 +42,7 @@ As most articles regarding K-pop have clear keywords (usually the person / group
 
 #### 2.2.1 - Time period Analysis
 
-Analyze the number of the keywords appearing before / after the news article being posted. Check how long it takes for the news to be at its highest attention. On top of that, we can also check the number of changes in the positive / negative word usage around the keywords. (Useful for platforms like DCinside)
+Analyze the number of the keywords appearing before / after the news article being posted. Check how long it takes for the news to be at its highest attention. On top of that, we can also check the number of changes in the positive / negative word usage around the keywords (Useful for platforms like DCinside).
 
 $\to$ We can also do this by counting the number of related tags on a community platform before / after the news article posted
 
