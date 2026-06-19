@@ -1,69 +1,54 @@
-# K-Pop Agenda Dynamics: Time Series Analysis of Topic Diffusion and Sentiment on Social Media
+# K-Pop Agenda Dynamics
 
-Ongoing research notes on the K-Pop Agenda Dynamics research by [Jihyung Kim](https://github.com/LoveLow-Global).
+This repository contains the data collection, preprocessing, topic modeling, and community analysis pipeline for the "K-Pop Agenda Dynamics" research project. The project investigates how different types of K-Pop news diffuse across anonymous online communities.
 
-Note that this repo is very "raw" as this research is undergoing work. Is it not yet intended for normal users to see the repository and get the grasp of the workflow fully.
+## Scripts
 
-**One line summary**: Sort K-pop related articles into distinct agenda topics, then check the characteristics of community response for each distinct agenda topics. We may also compare how the community response differ from one online community / SNS platform to another.
+The analysis is broken down into a sequence of Jupyter Notebooks (`00` through `08`). Below is the documentation for each script detailing its inputs, functionality, and outputs.
 
-**Target of Analysis**: Top K-pop related articles on [Naver Entertainment](https://m.entertain.naver.com/series?tab=subject&categoryId=ALL), from 2024-12-01 to 2025-11-30 (YYYY-MM-DD format).
+### [00_ranking_crawler.ipynb](./Step1/Step1-1/00_ranking_crawler.ipynb)
+*   **Inputs:** Start and end dates for crawling daily ranking URLs.
+*   **What it does:** Crawls daily ranking pages of K-pop entertainment news to gather basic metadata and links for the top articles of each day.
+*   **Outputs:** `articles_metadata.csv` (contains article URLs, titles, and dates).
 
-**Data Source**:
+### [01_content_crawler.ipynb](./Step1/Step1-1/01_content_crawler.ipynb)
+*   **Inputs:** `articles_metadata.csv`.
+*   **What it does:** Iterates through the gathered article URLs and fetches the full text content for each article.
+*   **Outputs:** Text (`.txt`) files containing the full content of the articles.
 
-1. News data via links provided through Naver News. 
+### [02_missing_file_check.ipynb](./Step1/Step1-2/02_missing_file_check.ipynb)
+*   **Inputs:** Downloaded `.txt` files and metadata.
+*   **What it does:** Verifies the completeness of the downloaded article content to identify any gaps (e.g., deleted articles or failed downloads). Missing data was found to be negligible.
+*   **Outputs:** Summary of missing files and updated valid article lists.
 
-2. DC Inside, potentially other online communitities.
+### [03_same_content_check.ipynb](./Step1/Step1-2/03_same_content_check.ipynb)
+*   **Inputs:** Article content files.
+*   **What it does:** Uses `SentenceTransformer` and cosine similarity to identify and deduplicate news articles that share the same or highly similar content.
+*   **Outputs:** Deduplicated list of unique articles.
 
-## Step 1 - Cluster News Articles to Distinct Agenda Topics
+### [04_top_300_sorting.ipynb](./Step1/Step1-2/04_top_300_sorting.ipynb)
+*   **Inputs:** Deduplicated list of articles.
+*   **What it does:** Sorts the deduplicated articles by view count or engagement and filters the dataset down to the top 300 most impactful articles.
+*   **Outputs:** `top300_filtered.csv`.
 
-### 1.1 - News Data Collection
+### [05_topic_modeling.ipynb](./Step1/Step1-3/05_topic_modeling.ipynb)
+*   **Inputs:** `top300_filtered.csv`.
+*   **What it does:** Performs Hybrid Zero-Shot Topic Modeling using BERTopic and `jhgan/ko-sbert-sts`. It maps the 300 articles to predefined labels (`["스타", "결혼 연애", "사망", "논란"]`). *Note: Only a subset of these articles is ultimately selected for community reaction analysis to avoid spam and handle platform search constraints.*
+*   **Outputs:** `top300_filtered_with_topics_ZeroShot.csv` and `top5_articles_per_topic_ZeroShot.csv`.
 
-From Dec 1st, 2024 to Nov 30th, 2025 the 10 articles with the highest number of daily views were collected. Some articles could not be found, likely because the original articles were deleted. However, it was a extremely small portion of the total number of collected articles and therefore we moved on.
+### [06_DCinside_list_crawler.ipynb](./Step2/Step2-1/06_DCinside_list_crawler.ipynb)
+*   **Inputs:** Keywords (stars/subjects) and specific date windows relative to the article publication dates.
+*   **What it does:** Crawls DCInside community posts searching for the target keywords within the pre-defined window around the article publication, handling DCInside's 120-page search limit.
+*   **Outputs:** `[Keyword]_list.csv` files containing community post dates, titles, URLs, and preview content.
 
-### 1.2 - Check news articles with same content
+### [07_analysis.ipynb](./Step2/Step2-2/07_analysis.ipynb)
+*   **Inputs:** `name_article_time.csv` and `[Keyword]_list.csv` files. Note that the `name_article_time.csv` was simply manually made, by looking at the `top300_filtered.csv` file.
+*   **What it does:** Analyzes the diffusion (attention ratio) and sentiment shifts of keywords on DCInside before (-14 days baseline) and after the news articles. Performs sentiment scoring using `nlptown/bert-base-multilingual-uncased-sentiment`. Excludes Topic 3 from the analysis.
+*   **Outputs:** Dataframes and CSVs with event-level attention ratios and sentiment analysis results.
 
-Sort out the news articles with the same content. It is very likely that different media companies posted articles with the core information. Example: [Article 1](https://m.entertain.naver.com/ranking/article/382/0001097705) and [Article 2](https://m.entertain.naver.com/ranking/article/312/0000643408) is about the same event. A single company could have also re-posted with a little tweak over time as well. We will sort out the articles with the same core information. This is to focus on the upload time of the 1st news article, as the information diffusion among the public starts then.
+### [08_plots.ipynb](./Step2/Step2-2/08_plots.ipynb)
+This is a seperate file from the main workflow, mainly used for the intial data analysis assignment.
 
-### 1.3 - Topic Modeling
+## Webpage
 
-Apply topic modeling on the gathered news articles, currently comparing different methods (such as BERT based methods and LDA) and parameters.
-
-## Step 2 - Analysis on the Diffusion of each Article and Sentiment
-
-### 2.1 - Select some news over different topics.
-
-Select the top **5-10** most influential (= most views) news per topic type (numbers subject to change).
-
-### 2.2 - Analysis
-
-Analyze the user reactions on  websites. These include the number of articles mentioning it, comments on these articles, number of views, and more.
-
-As most articles regarding K-pop have clear keywords (usually the person / group / event name), we can analyze the articles with these keywords included in the title or text.
-
-#### 2.2.1 - Time period Analysis
-
-Analyze the number of the keywords appearing before / after the news article being posted. Check how long it takes for the news to be at its highest attention. On top of that, we can also check the number of changes in the positive / negative word usage around the keywords (Useful for platforms like DCinside).
-
-$\to$ We can also do this by counting the number of related tags on a community platform before / after the news article posted
-
-From this, we can draw insights on the distinct agenda topics and their differences when it comes to information diffusion and reactions. We can also compare the different information diffusion and reactions across different platforms, if we can have good enough data access to other community platforms besides DCInside.
-
-#### 2.2.2 - Example
-
-For example, after the news of 카리나 and 이재욱 dating was first told to the public by 디스패치(company code: 311), we can analyze the number of articles with '카리나' or '재욱' included in the article, and analyze how the numbers of these articles change over time. We can also check the number of changes in the positive / negative word usage in the articles containing '카리나' or '재욱'. This data can be part of the "romance" category. (category name subject to change)
-
-## Step 3 - Comparison Between the Different Diffusion and Sentiment Across Different Topics
-
-## Related papers
-
-https://journals.sagepub.com/doi/abs/10.1177/107769900608300205
-
-https://www.researchgate.net/publication/317271223_The_attribute_agenda-setting_influence_of_online_community_on_online_newscast_investigating_the_South_Korean_Sewol_ferry_tragedy
-
-http://www.korfin.org/korfin_file/forum/2017co-conf11-3.pdf
-
-https://www.researchgate.net/publication/395443134_The_Collapse_and_Rebuilding_of_K-POP_Idols'_Persona
-
-
-[K-POP 아이돌 그룹의 세대별 이슈 변화 분석 고찰 - 뉴스 빅데이터를 중심으로](https://www-dbpia-co-kr-ssl.access.yonsei.ac.kr/journal/articleDetail?nodeId=NODE11889791),[Topic Granularity & Hallucination LLM Topic Modelling](https://arxiv-org.access.yonsei.ac.kr/abs/2405.00611), 
-[multi-granularity learning towards open topic classification](https://www-sciencedirect-com-ssl.access.yonsei.ac.kr/science/article/pii/S0020025521011555), [Granularity of algorithmically constructed publication-level classifications of research publications: Identification of topics](https://arxiv-org.access.yonsei.ac.kr/abs/1801.02466)
+The webpage for this project can be found ![here](https://qss45-jihyung-final.vercel.app/)
