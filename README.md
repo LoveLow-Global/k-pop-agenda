@@ -51,4 +51,4 @@ This is a seperate file from the main workflow, mainly used for the intial data 
 
 ## Webpage
 
-The webpage for this project can be found ![here](https://qss45-jihyung-final.vercel.app/)
+A webpage can also be made using the [given files](./webpage) to make a webpage which introduces this project.
